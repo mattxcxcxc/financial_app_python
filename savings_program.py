@@ -74,32 +74,5 @@ while True:
     
     
     
-    
-    # print("\n")
-    # print(f'Your bi-weekly income is:${bi_weekly_income:.2f}')
-    # print(f'Your monthly rent is:${rent:.2f}')
-    # print(f'Your monthly car payment is:${car_payment:.2f}')
-    # print(f'Your monthly car insurance is:${car_insurance:.2f}\n')
-
-    # total_monthly_expenses=rent+car_payment+car_insurance
-    # bi_weekly_expenses=total_monthly_expenses/4.33
-    # remaining_income=bi_weekly_income-bi_weekly_expenses
-    # savings=remaining_income*0.20
-
-    # if remaining_income<0:
-    #     print("\nWarning:Your expenses exceed your income. Consider reducing expenses.")
-
-    # print(f'Your total monthly expenses is:${total_monthly_expenses:.2f}')
-    # print(f'Your bi-weekly expenses is:${bi_weekly_expenses:.2f}')
-    # print(f'Your remaining income is:${remaining_income:.2f}')
-    # print(f'Your savings is:${savings:.2f}\n')
-
-    # repeat=input("Do you want to calulate again? (yes/no):").strip().lower()
-    # if repeat=="no":
-    #     print("Thank you for using the financial app. Goodbye!")
-    #     break
-    # elif repeat !="yes" and repeat !="no":
-    #     print('Invalid response, enter yes or no, only.')
-    #     continue
-
+   
     
